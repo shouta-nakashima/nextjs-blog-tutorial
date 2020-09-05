@@ -38,6 +38,6 @@ pages/indexをTypeScriptに書き換える
 [詳細動画](https://www.youtube.com/watch?v=D-q8K7TCN6I&list=PLX8Rsrpnn3IUGEyanrHYGjY1WOzNe7Jd-&index=11)
 
 ## 外部APIよりDATAの取得(GitHubAPI)
-
+*チュートリアルにはありません。  
 [詳細動画](https://www.youtube.com/watch?v=ILt3VBqbeds&list=PLX8Rsrpnn3IUGEyanrHYGjY1WOzNe7Jd-&index=12)
 
