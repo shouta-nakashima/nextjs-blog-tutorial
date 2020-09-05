@@ -1,8 +1,12 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+
 
 NextJSのチュートリアルに基づいて進めています。  
+NextJSのチュートリアルは[こちら](https://nextjs.org/learn)  
 トラハックさんのYouTubeを参考に実施しました。  
 個人的に非常に分かりやすいので、復習しやすいようにまとめてみました。
+
+## 概要説明
+[詳細動画](https://www.youtube.com/watch?v=IHkvcmXReyU&list=PLX8Rsrpnn3IUGEyanrHYGjY1WOzNe7Jd-&index=1)
 
 ## 環境構築
 `npx create-next-app プロジェクト名 --use-npm --example "https://github.com/vercel/next-learn-starter/tree/master/learn-starter"`  
