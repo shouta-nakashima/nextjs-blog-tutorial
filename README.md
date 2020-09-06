@@ -1,8 +1,8 @@
-
+# nextjs-blog-tutorial
 
 NextJSのチュートリアルに基づいて進めています。  
 NextJSのチュートリアルは[こちら](https://nextjs.org/learn)  
-トラハックさんのYouTubeを参考に実施しました。  
+トラハックさんのYouTube(日本一分かりやすいNextJS入門シリーズ)を参考に実施しました。  
 個人的に非常に分かりやすいので、復習しやすいようにまとめてみました。
 
 ## 概要説明
